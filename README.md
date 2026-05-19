@@ -7,6 +7,10 @@ The goal of this repository is to try and make an organized collection of ringto
 
 Please feel free to add whatever RTTTL ringtones you have. 
 
+Use the tool below to try some of the ringtones you find here:
+
+https://adamonsoon.github.io/rtttl-play/
+
 ## FAQ
 
 ### I like a ringtone, but it's too long. 
